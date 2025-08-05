@@ -1,67 +1,371 @@
-,
-PEERLESS INSIGHTS,
-DTV-010 Feature Prioritization,
-August 2025,
-Table 1,
-hGender. What is your gender?,
-,
-Base: Total Respondents,3439
-Male,1704
-,49.55%
-Female,1735
-,50.45%
-Sigma,3439
-,100.00%
-,
-PEERLESS INSIGHTS,
-DTV-010 Feature Prioritization,
-August 2025,
-Table 2,
-"S3. We are interested in getting feedback from people who work in a variety of areas. Do you, or does anyone in your family or household work in any of the following industries?",
-,
-Base: Total Respondents,3439
-"In advertising, public relations, or journalism",0
-,0.00%
-In marketing or market research,0
-,0.00%
-For a telecommunications company,0
-,0.00%
-In financial services/banking,106
-,3.08%
-In education,307
-,8.93%
-In hospitality/travel/tourism,95
-,2.76%
-In government/public service,140
-,4.07%
-In retail,293
-,8.52%
-None of the above ,2632
-,76.53%
-Sigma,3573
-,103.90%
-,
-PEERLESS INSIGHTS,
-DTV-010 Feature Prioritization,
-August 2025,
-Table 3,
-hAge. What is your age group?,
-,
-Base: Total Respondents,3439
-18-29,955
-,27.77%
-30-39,1120
-,32.57%
-40-49,1362
-,39.60%
-50+,1
-,0.03%
-No Answer,1
-,0.03%
-Sigma,3439
-,100.00%
-Mean,48.62
-Std. Dev.,16.77
-Std. Err.,0.29
-Median,47.00
-,
+,,Banner,Code
+#page,,Age 18-29,A
+,,Age 18-29,A
+PEERLESS INSIGHTS,,Age 18-29,A
+DTV-010 Feature Prioritization,,Age 18-29,A
+August 2025,,Age 18-29,A
+UNWEIGHT,,Age 18-29,A
+,,Age 18-29,A
+Table 1,,Age 18-29,A
+hGender. What is your gender?,,Age 18-29,A
+Base: Total Respondents,955,Age 18-29,A
+,,Age 18-29,A
+Male,500,Age 18-29,A
+,52.36%,Age 18-29,A
+Female,455,Age 18-29,A
+,47.64%,Age 18-29,A
+Sigma,955,Age 18-29,A
+,100.00%,Age 18-29,A
+,,Age 18-29,A
+#page,,Age 30-39,B
+,,Age 30-39,B
+PEERLESS INSIGHTS,,Age 30-39,B
+DTV-010 Feature Prioritization,,Age 30-39,B
+August 2025,,Age 30-39,B
+UNWEIGHT,,Age 30-39,B
+,,Age 30-39,B
+Table 1,,Age 30-39,B
+hGender. What is your gender?,,Age 30-39,B
+Base: Total Respondents,1121,Age 30-39,B
+,,Age 30-39,B
+Male,575,Age 30-39,B
+,51.29%,Age 30-39,B
+Female,546,Age 30-39,B
+,48.71%,Age 30-39,B
+Sigma,1121,Age 30-39,B
+,100.00%,Age 30-39,B
+,,Age 30-39,B
+#page,,Male,C
+,,Male,C
+PEERLESS INSIGHTS,,Male,C
+DTV-010 Feature Prioritization,,Male,C
+August 2025,,Male,C
+UNWEIGHT,,Male,C
+,,Male,C
+Table 1,,Male,C
+hGender. What is your gender?,,Male,C
+Base: Total Respondents,1704,Male,C
+,,Male,C
+Male,1704,Male,C
+,100.00%,Male,C
+Female,0,Male,C
+,0.00%,Male,C
+Sigma,1704,Male,C
+,100.00%,Male,C
+,,Male,C
+#page,,S4r1 = 1,D
+,,S4r1 = 1,D
+PEERLESS INSIGHTS,,S4r1 = 1,D
+DTV-010 Feature Prioritization,,S4r1 = 1,D
+August 2025,,S4r1 = 1,D
+UNWEIGHT,,S4r1 = 1,D
+,,S4r1 = 1,D
+Table 1,,S4r1 = 1,D
+hGender. What is your gender?,,S4r1 = 1,D
+Base: Total Respondents,1573,S4r1 = 1,D
+,,S4r1 = 1,D
+Male,848,S4r1 = 1,D
+,53.91%,S4r1 = 1,D
+Female,725,S4r1 = 1,D
+,46.09%,S4r1 = 1,D
+Sigma,1573,S4r1 = 1,D
+,100.00%,S4r1 = 1,D
+,,S4r1 = 1,D
+#page,,S4r1 = 0,E
+,,S4r1 = 0,E
+PEERLESS INSIGHTS,,S4r1 = 0,E
+DTV-010 Feature Prioritization,,S4r1 = 0,E
+August 2025,,S4r1 = 0,E
+UNWEIGHT,,S4r1 = 0,E
+,,S4r1 = 0,E
+Table 1,,S4r1 = 0,E
+hGender. What is your gender?,,S4r1 = 0,E
+Base: Total Respondents,1866,S4r1 = 0,E
+,,S4r1 = 0,E
+Male,856,S4r1 = 0,E
+,45.87%,S4r1 = 0,E
+Female,1010,S4r1 = 0,E
+,54.13%,S4r1 = 0,E
+Sigma,1866,S4r1 = 0,E
+,100.00%,S4r1 = 0,E
+,,S4r1 = 0,E
+#page,,Age 18-29,A
+,,Age 18-29,A
+PEERLESS INSIGHTS,,Age 18-29,A
+DTV-010 Feature Prioritization,,Age 18-29,A
+August 2025,,Age 18-29,A
+UNWEIGHT,,Age 18-29,A
+,,Age 18-29,A
+Table 2,,Age 18-29,A
+"S3. We are interested in getting feedback from people who work in a variety of areas. Do you, or does anyone in your family or household work in any of the following industries?",,Age 18-29,A
+Base: Total Respondents,955,Age 18-29,A
+,,Age 18-29,A
+"In advertising, public relations, or journalism",0,Age 18-29,A
+,0.00%,Age 18-29,A
+In marketing or market research,0,Age 18-29,A
+,0.00%,Age 18-29,A
+For a telecommunications company,0,Age 18-29,A
+,0.00%,Age 18-29,A
+In financial services/banking,36,Age 18-29,A
+,3.77%,Age 18-29,A
+In education,101,Age 18-29,A
+,10.58%,Age 18-29,A
+In hospitality/travel/tourism,47,Age 18-29,A
+,4.92%,Age 18-29,A
+In government/public service,55,Age 18-29,A
+,5.76%,Age 18-29,A
+In retail,135,Age 18-29,A
+,14.14%,Age 18-29,A
+None of the above ,653,Age 18-29,A
+,68.38%,Age 18-29,A
+Sigma,1027,Age 18-29,A
+,107.54%,Age 18-29,A
+,,Age 18-29,A
+#page,,Age 30-39,B
+,,Age 30-39,B
+PEERLESS INSIGHTS,,Age 30-39,B
+DTV-010 Feature Prioritization,,Age 30-39,B
+August 2025,,Age 30-39,B
+UNWEIGHT,,Age 30-39,B
+,,Age 30-39,B
+Table 2,,Age 30-39,B
+"S3. We are interested in getting feedback from people who work in a variety of areas. Do you, or does anyone in your family or household work in any of the following industries?",,Age 30-39,B
+Base: Total Respondents,1121,Age 30-39,B
+,,Age 30-39,B
+"In advertising, public relations, or journalism",0,Age 30-39,B
+,0.00%,Age 30-39,B
+In marketing or market research,0,Age 30-39,B
+,0.00%,Age 30-39,B
+For a telecommunications company,0,Age 30-39,B
+,0.00%,Age 30-39,B
+In financial services/banking,35,Age 30-39,B
+,3.12%,Age 30-39,B
+In education,104,Age 30-39,B
+,9.28%,Age 30-39,B
+In hospitality/travel/tourism,33,Age 30-39,B
+,2.94%,Age 30-39,B
+In government/public service,46,Age 30-39,B
+,4.10%,Age 30-39,B
+In retail,80,Age 30-39,B
+,7.14%,Age 30-39,B
+None of the above ,860,Age 30-39,B
+,76.72%,Age 30-39,B
+Sigma,1158,Age 30-39,B
+,103.30%,Age 30-39,B
+,,Age 30-39,B
+#page,,Male,C
+,,Male,C
+PEERLESS INSIGHTS,,Male,C
+DTV-010 Feature Prioritization,,Male,C
+August 2025,,Male,C
+UNWEIGHT,,Male,C
+,,Male,C
+Table 2,,Male,C
+"S3. We are interested in getting feedback from people who work in a variety of areas. Do you, or does anyone in your family or household work in any of the following industries?",,Male,C
+Base: Total Respondents,1704,Male,C
+,,Male,C
+"In advertising, public relations, or journalism",0,Male,C
+,0.00%,Male,C
+In marketing or market research,0,Male,C
+,0.00%,Male,C
+For a telecommunications company,0,Male,C
+,0.00%,Male,C
+In financial services/banking,50,Male,C
+,2.93%,Male,C
+In education,143,Male,C
+,8.39%,Male,C
+In hospitality/travel/tourism,35,Male,C
+,2.05%,Male,C
+In government/public service,58,Male,C
+,3.40%,Male,C
+In retail,143,Male,C
+,8.39%,Male,C
+None of the above ,1335,Male,C
+,78.35%,Male,C
+Sigma,1764,Male,C
+,103.52%,Male,C
+,,Male,C
+#page,,S4r1 = 1,D
+,,S4r1 = 1,D
+PEERLESS INSIGHTS,,S4r1 = 1,D
+DTV-010 Feature Prioritization,,S4r1 = 1,D
+August 2025,,S4r1 = 1,D
+UNWEIGHT,,S4r1 = 1,D
+,,S4r1 = 1,D
+Table 2,,S4r1 = 1,D
+"S3. We are interested in getting feedback from people who work in a variety of areas. Do you, or does anyone in your family or household work in any of the following industries?",,S4r1 = 1,D
+Base: Total Respondents,1573,S4r1 = 1,D
+,,S4r1 = 1,D
+"In advertising, public relations, or journalism",0,S4r1 = 1,D
+,0.00%,S4r1 = 1,D
+In marketing or market research,0,S4r1 = 1,D
+,0.00%,S4r1 = 1,D
+For a telecommunications company,0,S4r1 = 1,D
+,0.00%,S4r1 = 1,D
+In financial services/banking,46,S4r1 = 1,D
+,2.92%,S4r1 = 1,D
+In education,123,S4r1 = 1,D
+,7.82%,S4r1 = 1,D
+In hospitality/travel/tourism,29,S4r1 = 1,D
+,1.84%,S4r1 = 1,D
+In government/public service,43,S4r1 = 1,D
+,2.73%,S4r1 = 1,D
+In retail,111,S4r1 = 1,D
+,7.06%,S4r1 = 1,D
+None of the above ,1273,S4r1 = 1,D
+,80.93%,S4r1 = 1,D
+Sigma,1625,S4r1 = 1,D
+,103.31%,S4r1 = 1,D
+,,S4r1 = 1,D
+#page,,S4r1 = 0,E
+,,S4r1 = 0,E
+PEERLESS INSIGHTS,,S4r1 = 0,E
+DTV-010 Feature Prioritization,,S4r1 = 0,E
+August 2025,,S4r1 = 0,E
+UNWEIGHT,,S4r1 = 0,E
+,,S4r1 = 0,E
+Table 2,,S4r1 = 0,E
+"S3. We are interested in getting feedback from people who work in a variety of areas. Do you, or does anyone in your family or household work in any of the following industries?",,S4r1 = 0,E
+Base: Total Respondents,1866,S4r1 = 0,E
+,,S4r1 = 0,E
+"In advertising, public relations, or journalism",0,S4r1 = 0,E
+,0.00%,S4r1 = 0,E
+In marketing or market research,0,S4r1 = 0,E
+,0.00%,S4r1 = 0,E
+For a telecommunications company,0,S4r1 = 0,E
+,0.00%,S4r1 = 0,E
+In financial services/banking,60,S4r1 = 0,E
+,3.22%,S4r1 = 0,E
+In education,184,S4r1 = 0,E
+,9.86%,S4r1 = 0,E
+In hospitality/travel/tourism,66,S4r1 = 0,E
+,3.54%,S4r1 = 0,E
+In government/public service,97,S4r1 = 0,E
+,5.20%,S4r1 = 0,E
+In retail,182,S4r1 = 0,E
+,9.75%,S4r1 = 0,E
+None of the above ,1359,S4r1 = 0,E
+,72.83%,S4r1 = 0,E
+Sigma,1948,S4r1 = 0,E
+,104.39%,S4r1 = 0,E
+,,S4r1 = 0,E
+#page,,Age 18-29,A
+,,Age 18-29,A
+PEERLESS INSIGHTS,,Age 18-29,A
+DTV-010 Feature Prioritization,,Age 18-29,A
+August 2025,,Age 18-29,A
+UNWEIGHT,,Age 18-29,A
+,,Age 18-29,A
+Table 3,,Age 18-29,A
+hAge. What is your age group?,,Age 18-29,A
+Base: Total Respondents,955,Age 18-29,A
+,,Age 18-29,A
+18-34,955,Age 18-29,A
+,100.00%,Age 18-29,A
+35-54,0,Age 18-29,A
+,0.00%,Age 18-29,A
+55+,0,Age 18-29,A
+,0.00%,Age 18-29,A
+Sigma,955,Age 18-29,A
+,100.00%,Age 18-29,A
+Mean,28.61,Age 18-29,A
+Std. Dev.,4.11,Age 18-29,A
+Std. Err.,0.13,Age 18-29,A
+Median,29.00,Age 18-29,A
+,,Age 18-29,A
+#page,,Age 30-39,B
+,,Age 30-39,B
+PEERLESS INSIGHTS,,Age 30-39,B
+DTV-010 Feature Prioritization,,Age 30-39,B
+August 2025,,Age 30-39,B
+UNWEIGHT,,Age 30-39,B
+,,Age 30-39,B
+Table 3,,Age 30-39,B
+hAge. What is your age group?,,Age 30-39,B
+Base: Total Respondents,1121,Age 30-39,B
+,,Age 30-39,B
+18-34,0,Age 30-39,B
+,0.00%,Age 30-39,B
+35-54,1121,Age 30-39,B
+,100.00%,Age 30-39,B
+55+,0,Age 30-39,B
+,0.00%,Age 30-39,B
+Sigma,1121,Age 30-39,B
+,100.00%,Age 30-39,B
+Mean,43.87,Age 30-39,B
+Std. Dev.,5.89,Age 30-39,B
+Std. Err.,0.18,Age 30-39,B
+Median,43.00,Age 30-39,B
+,,Age 30-39,B
+#page,,Male,C
+,,Male,C
+PEERLESS INSIGHTS,,Male,C
+DTV-010 Feature Prioritization,,Male,C
+August 2025,,Male,C
+UNWEIGHT,,Male,C
+,,Male,C
+Table 3,,Male,C
+hAge. What is your age group?,,Male,C
+Base: Total Respondents,1704,Male,C
+,,Male,C
+18-34,500,Male,C
+,29.34%,Male,C
+35-54,575,Male,C
+,33.74%,Male,C
+55+,629,Male,C
+,36.91%,Male,C
+Sigma,1704,Male,C
+,100.00%,Male,C
+Mean,47.65,Male,C
+Std. Dev.,16.92,Male,C
+Std. Err.,0.41,Male,C
+Median,45.00,Male,C
+,,Male,C
+#page,,S4r1 = 1,D
+,,S4r1 = 1,D
+PEERLESS INSIGHTS,,S4r1 = 1,D
+DTV-010 Feature Prioritization,,S4r1 = 1,D
+August 2025,,S4r1 = 1,D
+UNWEIGHT,,S4r1 = 1,D
+,,S4r1 = 1,D
+Table 3,,S4r1 = 1,D
+hAge. What is your age group?,,S4r1 = 1,D
+Base: Total Respondents,1573,S4r1 = 1,D
+,,S4r1 = 1,D
+18-34,326,S4r1 = 1,D
+,20.72%,S4r1 = 1,D
+35-54,485,S4r1 = 1,D
+,30.83%,S4r1 = 1,D
+55+,762,S4r1 = 1,D
+,48.44%,S4r1 = 1,D
+Sigma,1573,S4r1 = 1,D
+,100.00%,S4r1 = 1,D
+Mean,52.42,S4r1 = 1,D
+Std. Dev.,16.76,S4r1 = 1,D
+Std. Err.,0.42,S4r1 = 1,D
+Median,53.00,S4r1 = 1,D
+,,S4r1 = 1,D
+#page,,S4r1 = 0,E
+,,S4r1 = 0,E
+PEERLESS INSIGHTS,,S4r1 = 0,E
+DTV-010 Feature Prioritization,,S4r1 = 0,E
+August 2025,,S4r1 = 0,E
+UNWEIGHT,,S4r1 = 0,E
+,,S4r1 = 0,E
+Table 3,,S4r1 = 0,E
+hAge. What is your age group?,,S4r1 = 0,E
+Base: Total Respondents,1866,S4r1 = 0,E
+,,S4r1 = 0,E
+18-34,629,S4r1 = 0,E
+,33.71%,S4r1 = 0,E
+35-54,636,S4r1 = 0,E
+,34.08%,S4r1 = 0,E
+55+,601,S4r1 = 0,E
+,32.21%,S4r1 = 0,E
+Sigma,1866,S4r1 = 0,E
+,100.00%,S4r1 = 0,E
+Mean,45.41,S4r1 = 0,E
+Std. Dev.,16.09,S4r1 = 0,E
+Std. Err.,0.37,S4r1 = 0,E
+Median,42.00,S4r1 = 0,E
+,,S4r1 = 0,E
