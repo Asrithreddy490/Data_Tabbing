@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "question_var": "hAGE",
+        "question_text": "hAge. What is your age group?",
+        "base_text": "Total Respondents",
+        "codes": {
+            "1": "18-34",
+            "2": "35-54",
+            "3": "55+"
+        },
+        "base_filter": null,
+        "question_type": "single",
+        "mean_var": "S1"
+    },
+    {
+        "id": 2,
+        "question_var": "hGender",
+        "question_text": "hGender. What is your gender?",
+        "base_text": "Total Respondents",
+        "codes": {
+            "1": "Male",
+            "2": "Female"
+        },
+        "base_filter": null,
+        "question_type": "single",
+        "mean_var": null
+    }
+]
